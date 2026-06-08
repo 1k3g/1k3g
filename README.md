@@ -15,7 +15,7 @@
 
   **Hi, my name is Enzo, I'm learning code to become a developer**
 
-  **🇫🇷many skills in** <img src="https://i.postimg.cc/3w3Fr9Zb/python-logo.webp" alt="Python" width="16" /> **Python** 
+  **🇫🇷 many skills in** <img src="https://i.postimg.cc/3w3Fr9Zb/python-logo.webp" alt="Python" width="16" /> **Python** 
   
   *Currently studying in France* 🇫🇷
 
