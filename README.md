@@ -13,7 +13,7 @@
 
   ### 🪐 Status
 
-  **Hi, my name is Enzo, I'm learning code to become a developer**
+  **Hi, my name is Elliot, I'm learning code to become a developer**
 
   **🇫🇷 many skills in** <img src="https://i.postimg.cc/3w3Fr9Zb/python-logo.webp" alt="Python" width="16" /> **Python** 
   
@@ -21,10 +21,13 @@
 
   ---
 
-  ## ✨ About Kiro
+  ## ✨ About whitewolf
   
-  **Kiro $£lfbot** is the **first Discord £lfbot in France**
-  Designed with ❤️ by [xql.dev](https://github.com/KirobotDev) to elevate your Discord experience.
+i just learning python and tkinter and im actualy work in an tkinter interface fot the **[WHITE-WOLF TOOLS](https://github.com/Python-loving/WHITEWOLF-TOOLS)** created by *[xql.dev](https://github.com/kirobotdev)*. 
+
+this is the link to follow my progress : 
+
+https://github.com/Python-loving/Interface-Tools
 
   ---
 
