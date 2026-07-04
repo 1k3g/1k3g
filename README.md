@@ -23,7 +23,7 @@
 
   ## ✨ About whitewolf
   
-i just learning python and tkinter and im actualy work in an tkinter interface fot the **[WHITE-WOLF TOOLS](https://github.com/Python-loving/WHITEWOLF-TOOLS)** created by *[xql.dev](https://github.com/kirobotdev)*. 
+i just learning python and tkinter and im actualy work in an tkinter interface for the **[WHITE-WOLF TOOLS](https://github.com/Python-loving/WHITEWOLF-TOOLS)** created by *[xql.dev](https://github.com/kirobotdev)*. 
 
 this is the link to follow my progress : 
 
